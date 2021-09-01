@@ -3,8 +3,8 @@
 First repository for new users
 
 Please enter your name:
-
+Makaila Jelle
 Please enter your favorite color:
-
+Purple
 Save and push this file back up to GitHub. 
 Make sure to add a commit comment: "Added name and color"!
